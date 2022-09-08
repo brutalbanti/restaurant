@@ -189,6 +189,9 @@ body {
         gap: 20px;
         padding: 20px 0px;
     }
+    .header__image {
+        padding-bottom: 100%;
+    }
 }
 
 .button-menu__button {
